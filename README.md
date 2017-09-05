@@ -1,0 +1,2 @@
+# veckodagen
+Python programmeringsuppgift
