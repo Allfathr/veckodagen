@@ -1,0 +1,9 @@
+# Fråga om år, månad och dag i heltal
+year = int (input("Year: "))
+
+# Ifall året inte infaller inom det tillåtna åren, fråga igen.
+if year < 1583 or year > 9999:
+    print ("Out of allowed range 1583 - 9999")
+    
+month = int (input("Month: "))
+day = int (input("Day: "))
